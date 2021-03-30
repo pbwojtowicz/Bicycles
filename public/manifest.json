@@ -1,0 +1,23 @@
+{
+  "lang": "en",
+  "short_name": "Bikes",
+  "name": "Bicycles",
+  "description": "Our First PWA about bikes",
+  "icons": [
+    {
+      "src":   "icon1.png",
+      "type":  "image/png",
+      "sizes": "250x250"
+    },
+    {
+      "src":   "icon2.png",
+      "type":  "image/png",
+      "sizes": "300x160"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "white",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "white"
+}
